@@ -1,10 +1,7 @@
 #include "main.h"
+
 /**
- * main - Entry point of the program
- *
- * Description: This program prints a-z using _putchar
- *
- * Return: 0 (Success)
+ * print_alphabet - Prints the lowercase alphabet followed by a new line
  */
 void print_alphabet(void)
 {
